@@ -1,10 +1,10 @@
 message_data = {
-    "Aman": [
+    "Tuvshintur Lkhadorj": [
         {"message": "Hey bro, how's it going?", "time": "2023-03-21 10:30:00"},
-        {"message": "Not too bad, just working on some coding projects. Did you hear about the new encryption algorithm?", "time": "2023-03-21 10:35:00"},
-        {"message": "It's called AES256 and it's supposed to be really secure. Want to give it a try with our messages?", "time": "2023-03-21 10:40:00"},
+        {"message": "Not too bad, just working on some coding projects. Did you hear about the new encryption algorithm?", "time": "27.08.2023 15:15:00"},
+        {"message": "It's called AES256 and it's supposed to be really secure. Want to give it a try with our messages?", "time": "28.08.2023 16:20:00"},
     ],
-    "Divyansha": [
+    "Lkhadorj": [
         {"message": "Good, thanks! How about you?", "time": "25.08.2023 13:32:00"},
         {"message": "No, what's that?", "time": "25.08.2023 14:37:00"},
         {"message": "Sure, let's do it!", "time": "25.08.2023 17:42:00"},
