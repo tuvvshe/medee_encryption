@@ -44,5 +44,4 @@ Here is some stuff for README I am gonna change it later :)
 	7. Add a License
 	8. Badges
 	9. How to Contribute to the Project
-	10. Include Tests
 
