@@ -5,7 +5,6 @@ HiHi 👋, I'm Tuvshintur
 
 A passionate guy from Mongolia in Germany.
 
-
 🌱 I’m currently learning Frameworks, courses etc.
 
 ⚡ Fun fact I think I am funny
