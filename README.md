@@ -2,7 +2,6 @@
 medee_encryption
 
 HiHi 👋, I'm Tuvshintur
-
 A passionate guy from Mongolia in Germany.
 
 🌱 I’m currently learning Frameworks, courses etc.
