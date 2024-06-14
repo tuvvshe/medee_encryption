@@ -14,7 +14,6 @@ A passionate guy from Mongolia in Germany.
 
 👨‍💻 All of my projects are available at GitHub
 
-
 📫 How to reach me through Github
 
 💬 Ask me about anything
