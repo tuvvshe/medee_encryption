@@ -1,4 +1,4 @@
-# medee_encryption
+i# medee_encryption
 medee_encryption
 
 HiHi 👋, I'm Tuvshintur
@@ -21,8 +21,6 @@ A passionate guy from Mongolia in Germany.
 🤝 I’m looking for help with startup
 
 👯 I’m looking to collaborate on ....
-
-
 
 Here is some stuff for README I am gonna change it later :)
 
