@@ -25,7 +25,6 @@ A passionate guy from Mongolia in Germany.
 Here is some stuff for README I am gonna change it later :)
 
 
-
 1. What was your motivation?
 2. Why did you build this project?
 3. What problem does it solve?
